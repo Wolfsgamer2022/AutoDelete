@@ -46,7 +46,7 @@ docker run -d -p 2202:2202/tcp \
  -v /opt/AutoDelete/config.yml:/autodelete/config.yml \
  -v /opt/AutoDelete/data/:/autodelete/data/ \
  --restart=always \
- jacoknapp/autodelete-discord:latest
+ wolfsgamer2022/autodelete-discord:latest
 ```
 
 ## Bot Setup
